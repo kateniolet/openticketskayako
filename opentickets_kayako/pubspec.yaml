@@ -81,7 +81,22 @@ flutter:
       - assets/BadgeIcons-13.ico
       - assets/BadgeIcons-14.ico
       - assets/BadgeIcons-15.ico
-      
+      - assets/BadgeIcons-1.png
+      - assets/BadgeIcons-2.png
+      - assets/BadgeIcons-3.png
+      - assets/BadgeIcons-4.png
+      - assets/BadgeIcons-5.png
+      - assets/BadgeIcons-6.png
+      - assets/BadgeIcons-7.png
+      - assets/BadgeIcons-8.png
+      - assets/BadgeIcons-9.png
+      - assets/BadgeIcons-10.png
+      - assets/BadgeIcons-11.png
+      - assets/BadgeIcons-12.png
+      - assets/BadgeIcons-13.png
+      - assets/BadgeIcons-14.png
+      - assets/BadgeIcons-15.png
+
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
