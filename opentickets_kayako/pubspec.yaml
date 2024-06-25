@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  windows_taskbar: ^1.1.0
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -62,6 +64,25 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+
+  assets:
+      - assets/BadgeIcons-1.ico
+      - assets/BadgeIcons-2.ico
+      - assets/BadgeIcons-3.ico
+      - assets/BadgeIcons-4.ico
+      - assets/BadgeIcons-5.ico
+      - assets/BadgeIcons-6.ico
+      - assets/BadgeIcons-7.ico
+      - assets/BadgeIcons-8.ico
+      - assets/BadgeIcons-9.ico
+      - assets/BadgeIcons-10.ico
+      - assets/BadgeIcons-11.ico
+      - assets/BadgeIcons-12.ico
+      - assets/BadgeIcons-13.ico
+      - assets/BadgeIcons-14.ico
+      - assets/BadgeIcons-15.ico
+      
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
